@@ -1,0 +1,2 @@
+# bzsh
+better zsh
