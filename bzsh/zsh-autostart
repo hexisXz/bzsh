@@ -1,0 +1,3 @@
+hexfetch
+
+. /home/hexis/.nix-profile/etc/profile.d/nix.sh

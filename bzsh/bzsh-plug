@@ -1,0 +1,6 @@
+source ~/.config/bzsh/zsh-prompt
+
+source ~/.config/bzsh/zsh-autostart
+
+source ~/.config/bzsh/zsh-aliases
+
