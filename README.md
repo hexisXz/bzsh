@@ -7,3 +7,11 @@ yes i know this is another plugin manager and i have to make something so this i
 
 # plugins
 bzsh comes with NO plugins. if you want plugins you have to install them. i did this so its not bloated.
+
+
+# install 
+
+``` sh
+sh <(curl -V -L https://raw.githubusercontent.com/hexisXz/bzsh/main/install)
+```
+ 
