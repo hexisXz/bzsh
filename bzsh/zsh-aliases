@@ -1,14 +1,6 @@
-alias rm='trash'
-alias rme='trash-empty'
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-alias l='eza -al'
-alias ls='eza -l'
 alias bzsh='cd ~/.config/zsh'
-
-function nixcp () {
-	sudo ln -s /home/$USER/.nix-profile/share/applications/* /bin/
-}
 
 function sb () {
 	source ~/.config/zsh/bzsh-plug
