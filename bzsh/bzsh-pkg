@@ -2,4 +2,23 @@
 
 case $1 in
 	i)
+	 curl https://github.com/hexisXz/bzsh-plugins/blob/main/plugins/$2/install
+	;;
+
+        R)
+	 sudo rm -r ~/.config/bzsh/plugins/$2
+	;;
+
+	l)
+	 ls ~/.config/bzsh/plugins
+        ;;
+
+        *)
+	 echo "usage: i: install plugins
+
+	 R: remove a plugin
+
+	 l: list plugins"
+	;;
+esac 	
 	 
