@@ -1,1 +1,1 @@
-source 	~/.config/zsh/bzsh-plug
+source 	~/.config/bzsh/bzsh-plug
