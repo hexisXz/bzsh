@@ -2,7 +2,7 @@
 
 case $1 in
 	i)
-	 curl https://github.com/hexisXz/bzsh-plugins/blob/main/plugins/$2/install
+	 wget -q --show-progress --progress=bar:force 2>&1 "https://github.com/hexisXz/bzsh-plugins/blob/main/plugins/$2/install"
 	;;
 
         R)
