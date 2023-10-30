@@ -1,8 +1,8 @@
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-alias bzsh='cd ~/.config/zsh'
+alias bzsh='cd ~/.config/bzsh'
 
 function sb () {
-	source ~/.config/zsh/bzsh-plug
+	source ~/.config/bzsh/bzsh-plug
 }
 
