@@ -1,0 +1,3 @@
+#!/bin/sh 
+
+mv bzsh ~/.config && mkdir ~/old-zshrc && mv ~/.zshrc ~/old-zshrc && mv .zshrc ~/
