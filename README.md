@@ -12,6 +12,6 @@ bzsh comes with NO plugins. if you want plugins you have to install them. i did 
 # install 
 
 ``` sh
-sh <(curl -V -L https://raw.githubusercontent.com/hexisXz/bzsh/main/install)
+sh <(curl -v -L https://raw.githubusercontent.com/hexisXz/bzsh/main/install)
 ```
  
