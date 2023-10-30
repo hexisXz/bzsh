@@ -1,3 +1,3 @@
 #!/bin/sh 
 
-mv bzsh ~/.config && mkdir ~/old-zshrc && mv ~/.zshrc ~/old-zshrc && mv .zshrc ~/
+git clone https://github.com/hexisXz/bzsh.git && mv bzsh ~/.config && mkdir ~/old-zshrc && mv ~/.zshrc ~/old-zshrc && mv .zshrc ~/
