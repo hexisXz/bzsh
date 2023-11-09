@@ -1,3 +1,6 @@
+# DONT USE THIS YET.
+
+
 # bzsh
 bzsh is a better zsh.
 
